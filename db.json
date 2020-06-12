@@ -1,5 +1,5 @@
-[
-   data: {
+{
+   "data":[ {
         "primaryKey": 344,
         "area": "ML Results",
         "key": "Slice 125",
@@ -504,3 +504,4 @@
         "value3": "cancer"
     }
 ]
+}
