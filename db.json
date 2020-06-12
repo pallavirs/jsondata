@@ -1,0 +1,4754 @@
+[
+    {
+        "primaryKey": 1,
+        "area": "Metadata",
+        "key": "Specific Character Set",
+        "value1": "ISO_IR 100",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 2,
+        "area": "Metadata",
+        "key": "Image Type",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 3,
+        "area": "Metadata",
+        "key": "SOP Class UID",
+        "value1": "1.2.840.10008.5.1.4.1.1.3.1",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 4,
+        "area": "Metadata",
+        "key": "SOP Instance UID",
+        "value1": "2.16.840.1.114488.0.4.123489834087.1330071425.2",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 5,
+        "area": "Metadata",
+        "key": "Study Date",
+        "value1": "20200531",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 6,
+        "area": "Metadata",
+        "key": "Series Date",
+        "value1": "20200531",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 7,
+        "area": "Metadata",
+        "key": "Content Date",
+        "value1": "20200531",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 8,
+        "area": "Metadata",
+        "key": "Study Time",
+        "value1": "94836.214743984",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 9,
+        "area": "Metadata",
+        "key": "Series Time",
+        "value1": "94836.214743984",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 10,
+        "area": "Metadata",
+        "key": "Content Time",
+        "value1": "100451.214743816",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 11,
+        "area": "Metadata",
+        "key": "Accession Number",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 12,
+        "area": "Metadata",
+        "key": "Modality",
+        "value1": "US",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 13,
+        "area": "Metadata",
+        "key": "Manufacturer",
+        "value1": "Novarad",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 14,
+        "area": "Metadata",
+        "key": "Institution Name",
+        "value1": "Novarad Headquarters",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 15,
+        "area": "Metadata",
+        "key": "Institution Address",
+        "value1": "Novarad Headquarters, Utah",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 16,
+        "area": "Metadata",
+        "key": "Referring Physician's Name",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 17,
+        "area": "Metadata",
+        "key": "Station Name",
+        "value1": "Nova3D",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 18,
+        "area": "Metadata",
+        "key": "Study Description",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 19,
+        "area": "Metadata",
+        "key": "Performing Physician's Name",
+        "value1": "Albert Ross",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 20,
+        "area": "Metadata",
+        "key": "Manufacturer's Model Name",
+        "value1": "Nova3D v1.6",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 21,
+        "area": "Metadata",
+        "key": "Recommended Display Frame Rate",
+        "value1": "1",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 22,
+        "area": "Metadata",
+        "key": "Patient's Name",
+        "value1": "John Doe",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 23,
+        "area": "Metadata",
+        "key": "Patient ID",
+        "value1": "NOV-UT-20-05-31-1567",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 24,
+        "area": "Metadata",
+        "key": "Patient's Birth Date",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 25,
+        "area": "Metadata",
+        "key": "Patient's Sex",
+        "value1": "M",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 26,
+        "area": "Metadata",
+        "key": "Patient's Size",
+        "value1": "0",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 27,
+        "area": "Metadata",
+        "key": "Patient's Weight",
+        "value1": "0",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 28,
+        "area": "Metadata",
+        "key": "Patient Comments",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 29,
+        "area": "Metadata",
+        "key": "Cine Rate",
+        "value1": "1",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 30,
+        "area": "Metadata",
+        "key": "Effective Duration",
+        "value1": "1",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 31,
+        "area": "Metadata",
+        "key": "Device Serial Number",
+        "value1": "0",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 32,
+        "area": "Metadata",
+        "key": "Software Versions",
+        "value1": "3.3.0 RC0 built 02/23/12 09:50:45",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 33,
+        "area": "Metadata",
+        "key": "Frame Time",
+        "value1": "1000",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 34,
+        "area": "Metadata",
+        "key": "Preferred Playback Sequencing",
+        "value1": "0",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 35,
+        "area": "Metadata",
+        "key": "Sequence of Ultrasound Regions",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 36,
+        "area": "Metadata",
+        "key": "Study Instance UID",
+        "value1": "2.16.840.1.114488.0.4.123489834087.1330071425.0",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 37,
+        "area": "Metadata",
+        "key": "Series Instance UID",
+        "value1": "2.16.840.1.114488.0.4.123489834087.1330071425.1",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 38,
+        "area": "Metadata",
+        "key": "Study ID",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 39,
+        "area": "Metadata",
+        "key": "Series Number",
+        "value1": "1",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 40,
+        "area": "Metadata",
+        "key": "Instance Number",
+        "value1": "1",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 41,
+        "area": "Metadata",
+        "key": "Patient Orientation",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 42,
+        "area": "Metadata",
+        "key": "Laterality",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 43,
+        "area": "Metadata",
+        "key": "Image Comments",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 44,
+        "area": "Metadata",
+        "key": "Samples per Pixel",
+        "value1": "3",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 45,
+        "area": "Metadata",
+        "key": "Photometric Interpretation",
+        "value1": "RGB",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 46,
+        "area": "Metadata",
+        "key": "Planar Configuration",
+        "value1": "0",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 47,
+        "area": "Metadata",
+        "key": "Number of Frames",
+        "value1": "269",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 48,
+        "area": "Metadata",
+        "key": "Frame Increment Pointer",
+        "value1": "-181063",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 49,
+        "area": "Metadata",
+        "key": "Rows",
+        "value1": "630",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 50,
+        "area": "Metadata",
+        "key": "Columns",
+        "value1": "630",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 51,
+        "area": "Metadata",
+        "key": "Bits Allocated",
+        "value1": "8",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 52,
+        "area": "Metadata",
+        "key": "Bits Stored",
+        "value1": "8",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 53,
+        "area": "Metadata",
+        "key": "High Bit",
+        "value1": "7",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 54,
+        "area": "Metadata",
+        "key": "Pixel Representation",
+        "value1": "0",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 55,
+        "area": "Metadata",
+        "key": "Lossy Image Compression",
+        "value1": "0",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 56,
+        "area": "Metadata",
+        "key": "Pixel Data",
+        "value1": "",
+        "value2": null,
+        "value3": null
+    },
+    {
+        "primaryKey": 57,
+        "area": "ML Results",
+        "key": "Slice 268",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9788208",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 58,
+        "area": "ML Results",
+        "key": "Slice 268",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9973579",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 59,
+        "area": "ML Results",
+        "key": "Slice 267",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9855011",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 60,
+        "area": "ML Results",
+        "key": "Slice 267",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99888057",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 61,
+        "area": "ML Results",
+        "key": "Slice 266",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.98017395",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 62,
+        "area": "ML Results",
+        "key": "Slice 266",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99916565",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 63,
+        "area": "ML Results",
+        "key": "Slice 265",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.96040595",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 64,
+        "area": "ML Results",
+        "key": "Slice 265",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9991003",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 65,
+        "area": "ML Results",
+        "key": "Slice 264",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9746027",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 66,
+        "area": "ML Results",
+        "key": "Slice 264",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9994149",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 67,
+        "area": "ML Results",
+        "key": "Slice 263",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99206626",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 68,
+        "area": "ML Results",
+        "key": "Slice 263",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9991014",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 69,
+        "area": "ML Results",
+        "key": "Slice 262",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99652123",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 70,
+        "area": "ML Results",
+        "key": "Slice 262",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99893767",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 71,
+        "area": "ML Results",
+        "key": "Slice 261",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9980253",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 72,
+        "area": "ML Results",
+        "key": "Slice 261",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9983169",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 73,
+        "area": "ML Results",
+        "key": "Slice 260",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9990741",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 74,
+        "area": "ML Results",
+        "key": "Slice 260",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99832135",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 75,
+        "area": "ML Results",
+        "key": "Slice 259",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9988789",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 76,
+        "area": "ML Results",
+        "key": "Slice 259",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9991153",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 77,
+        "area": "ML Results",
+        "key": "Slice 258",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9986029",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 78,
+        "area": "ML Results",
+        "key": "Slice 258",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99892884",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 79,
+        "area": "ML Results",
+        "key": "Slice 257",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99586946",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 80,
+        "area": "ML Results",
+        "key": "Slice 257",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99920976",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 81,
+        "area": "ML Results",
+        "key": "Slice 256",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9939558",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 82,
+        "area": "ML Results",
+        "key": "Slice 256",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9980438",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 83,
+        "area": "ML Results",
+        "key": "Slice 255",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99919826",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 84,
+        "area": "ML Results",
+        "key": "Slice 255",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9975733",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 85,
+        "area": "ML Results",
+        "key": "Slice 254",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99938786",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 86,
+        "area": "ML Results",
+        "key": "Slice 254",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99897975",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 87,
+        "area": "ML Results",
+        "key": "Slice 253",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9996458",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 88,
+        "area": "ML Results",
+        "key": "Slice 253",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99756503",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 89,
+        "area": "ML Results",
+        "key": "Slice 252",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9995096",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 90,
+        "area": "ML Results",
+        "key": "Slice 252",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99860954",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 91,
+        "area": "ML Results",
+        "key": "Slice 251",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99969625",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 92,
+        "area": "ML Results",
+        "key": "Slice 251",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9988788",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 93,
+        "area": "ML Results",
+        "key": "Slice 250",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99920577",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 94,
+        "area": "ML Results",
+        "key": "Slice 250",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99930143",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 95,
+        "area": "ML Results",
+        "key": "Slice 249",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99883443",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 96,
+        "area": "ML Results",
+        "key": "Slice 249",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9994659",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 97,
+        "area": "ML Results",
+        "key": "Slice 248",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99532783",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 98,
+        "area": "ML Results",
+        "key": "Slice 248",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9989599",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 99,
+        "area": "ML Results",
+        "key": "Slice 247",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99604046",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 100,
+        "area": "ML Results",
+        "key": "Slice 247",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9987299",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 101,
+        "area": "ML Results",
+        "key": "Slice 246",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99886864",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 102,
+        "area": "ML Results",
+        "key": "Slice 246",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99893445",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 103,
+        "area": "ML Results",
+        "key": "Slice 245",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9993844",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 104,
+        "area": "ML Results",
+        "key": "Slice 245",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99900335",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 105,
+        "area": "ML Results",
+        "key": "Slice 244",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.999496",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 106,
+        "area": "ML Results",
+        "key": "Slice 244",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9995535",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 107,
+        "area": "ML Results",
+        "key": "Slice 243",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9975811",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 108,
+        "area": "ML Results",
+        "key": "Slice 243",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9997819",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 109,
+        "area": "ML Results",
+        "key": "Slice 242",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99751127",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 110,
+        "area": "ML Results",
+        "key": "Slice 242",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9996427",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 111,
+        "area": "ML Results",
+        "key": "Slice 241",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99842477",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 112,
+        "area": "ML Results",
+        "key": "Slice 241",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99941325",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 113,
+        "area": "ML Results",
+        "key": "Slice 240",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99882513",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 114,
+        "area": "ML Results",
+        "key": "Slice 240",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9991406",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 115,
+        "area": "ML Results",
+        "key": "Slice 239",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99639505",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 116,
+        "area": "ML Results",
+        "key": "Slice 239",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99858785",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 117,
+        "area": "ML Results",
+        "key": "Slice 238",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9969003",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 118,
+        "area": "ML Results",
+        "key": "Slice 238",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9977913",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 119,
+        "area": "ML Results",
+        "key": "Slice 237",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99485874",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 120,
+        "area": "ML Results",
+        "key": "Slice 237",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99796367",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 121,
+        "area": "ML Results",
+        "key": "Slice 236",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9968291",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 122,
+        "area": "ML Results",
+        "key": "Slice 236",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99772245",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 123,
+        "area": "ML Results",
+        "key": "Slice 235",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9981141",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 124,
+        "area": "ML Results",
+        "key": "Slice 235",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99948967",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 125,
+        "area": "ML Results",
+        "key": "Slice 234",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9987136",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 126,
+        "area": "ML Results",
+        "key": "Slice 234",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99924386",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 127,
+        "area": "ML Results",
+        "key": "Slice 233",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9994955",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 128,
+        "area": "ML Results",
+        "key": "Slice 233",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.999464",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 129,
+        "area": "ML Results",
+        "key": "Slice 232",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9992717",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 130,
+        "area": "ML Results",
+        "key": "Slice 232",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9996966",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 131,
+        "area": "ML Results",
+        "key": "Slice 231",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9992778",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 132,
+        "area": "ML Results",
+        "key": "Slice 231",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9992349",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 133,
+        "area": "ML Results",
+        "key": "Slice 230",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99923384",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 134,
+        "area": "ML Results",
+        "key": "Slice 230",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9985025",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 135,
+        "area": "ML Results",
+        "key": "Slice 229",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9990073",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 136,
+        "area": "ML Results",
+        "key": "Slice 229",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99748933",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 137,
+        "area": "ML Results",
+        "key": "Slice 228",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9996166",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 138,
+        "area": "ML Results",
+        "key": "Slice 228",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99638903",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 139,
+        "area": "ML Results",
+        "key": "Slice 227",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9996301",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 140,
+        "area": "ML Results",
+        "key": "Slice 227",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.995061",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 141,
+        "area": "ML Results",
+        "key": "Slice 226",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9989623",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 142,
+        "area": "ML Results",
+        "key": "Slice 226",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9909643",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 143,
+        "area": "ML Results",
+        "key": "Slice 225",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99882334",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 144,
+        "area": "ML Results",
+        "key": "Slice 225",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9956085",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 145,
+        "area": "ML Results",
+        "key": "Slice 224",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9987992",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 146,
+        "area": "ML Results",
+        "key": "Slice 224",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9956514",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 147,
+        "area": "ML Results",
+        "key": "Slice 223",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9989348",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 148,
+        "area": "ML Results",
+        "key": "Slice 223",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9985495",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 149,
+        "area": "ML Results",
+        "key": "Slice 222",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9929852",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 150,
+        "area": "ML Results",
+        "key": "Slice 222",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99792993",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 151,
+        "area": "ML Results",
+        "key": "Slice 221",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9972253",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 152,
+        "area": "ML Results",
+        "key": "Slice 221",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99768114",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 153,
+        "area": "ML Results",
+        "key": "Slice 220",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99854434",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 154,
+        "area": "ML Results",
+        "key": "Slice 220",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99916255",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 155,
+        "area": "ML Results",
+        "key": "Slice 219",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99724126",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 156,
+        "area": "ML Results",
+        "key": "Slice 219",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.999451",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 157,
+        "area": "ML Results",
+        "key": "Slice 218",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99473083",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 158,
+        "area": "ML Results",
+        "key": "Slice 218",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9989046",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 159,
+        "area": "ML Results",
+        "key": "Slice 217",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99694926",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 160,
+        "area": "ML Results",
+        "key": "Slice 217",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99922514",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 161,
+        "area": "ML Results",
+        "key": "Slice 216",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9952969",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 162,
+        "area": "ML Results",
+        "key": "Slice 216",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9994061",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 163,
+        "area": "ML Results",
+        "key": "Slice 215",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99724686",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 164,
+        "area": "ML Results",
+        "key": "Slice 215",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9997613",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 165,
+        "area": "ML Results",
+        "key": "Slice 214",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.999106",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 166,
+        "area": "ML Results",
+        "key": "Slice 214",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9997942",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 167,
+        "area": "ML Results",
+        "key": "Slice 213",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99861646",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 168,
+        "area": "ML Results",
+        "key": "Slice 213",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9998047",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 169,
+        "area": "ML Results",
+        "key": "Slice 212",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99923265",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 170,
+        "area": "ML Results",
+        "key": "Slice 212",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99976534",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 171,
+        "area": "ML Results",
+        "key": "Slice 211",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9987382",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 172,
+        "area": "ML Results",
+        "key": "Slice 211",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99963284",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 173,
+        "area": "ML Results",
+        "key": "Slice 210",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9976241",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 174,
+        "area": "ML Results",
+        "key": "Slice 210",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9996635",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 175,
+        "area": "ML Results",
+        "key": "Slice 209",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9983333",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 176,
+        "area": "ML Results",
+        "key": "Slice 209",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99970955",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 177,
+        "area": "ML Results",
+        "key": "Slice 208",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9979844",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 178,
+        "area": "ML Results",
+        "key": "Slice 208",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99951446",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 179,
+        "area": "ML Results",
+        "key": "Slice 207",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9997329",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 180,
+        "area": "ML Results",
+        "key": "Slice 207",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9993766",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 181,
+        "area": "ML Results",
+        "key": "Slice 206",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9998627",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 182,
+        "area": "ML Results",
+        "key": "Slice 206",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9992316",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 183,
+        "area": "ML Results",
+        "key": "Slice 205",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99976724",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 184,
+        "area": "ML Results",
+        "key": "Slice 205",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9989084",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 185,
+        "area": "ML Results",
+        "key": "Slice 204",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9994649",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 186,
+        "area": "ML Results",
+        "key": "Slice 204",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9991635",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 187,
+        "area": "ML Results",
+        "key": "Slice 203",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9994407",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 188,
+        "area": "ML Results",
+        "key": "Slice 203",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9993224",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 189,
+        "area": "ML Results",
+        "key": "Slice 202",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99946994",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 190,
+        "area": "ML Results",
+        "key": "Slice 202",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9994247",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 191,
+        "area": "ML Results",
+        "key": "Slice 201",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.998879",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 192,
+        "area": "ML Results",
+        "key": "Slice 201",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9990754",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 193,
+        "area": "ML Results",
+        "key": "Slice 200",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9982672",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 194,
+        "area": "ML Results",
+        "key": "Slice 200",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9994772",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 195,
+        "area": "ML Results",
+        "key": "Slice 199",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9989718",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 196,
+        "area": "ML Results",
+        "key": "Slice 199",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9971603",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 197,
+        "area": "ML Results",
+        "key": "Slice 198",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9991351",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 198,
+        "area": "ML Results",
+        "key": "Slice 198",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9975216",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 199,
+        "area": "ML Results",
+        "key": "Slice 197",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9989305",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 200,
+        "area": "ML Results",
+        "key": "Slice 197",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9989207",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 201,
+        "area": "ML Results",
+        "key": "Slice 196",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99737513",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 202,
+        "area": "ML Results",
+        "key": "Slice 196",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9995863",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 203,
+        "area": "ML Results",
+        "key": "Slice 195",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9968996",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 204,
+        "area": "ML Results",
+        "key": "Slice 195",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99942976",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 205,
+        "area": "ML Results",
+        "key": "Slice 194",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99694294",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 206,
+        "area": "ML Results",
+        "key": "Slice 194",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9994498",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 207,
+        "area": "ML Results",
+        "key": "Slice 193",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99788815",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 208,
+        "area": "ML Results",
+        "key": "Slice 193",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9995797",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 209,
+        "area": "ML Results",
+        "key": "Slice 192",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99913174",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 210,
+        "area": "ML Results",
+        "key": "Slice 192",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99911326",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 211,
+        "area": "ML Results",
+        "key": "Slice 191",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99939513",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 212,
+        "area": "ML Results",
+        "key": "Slice 191",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9989685",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 213,
+        "area": "ML Results",
+        "key": "Slice 190",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99919635",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 214,
+        "area": "ML Results",
+        "key": "Slice 190",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99712807",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 215,
+        "area": "ML Results",
+        "key": "Slice 189",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99853325",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 216,
+        "area": "ML Results",
+        "key": "Slice 189",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9986273",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 217,
+        "area": "ML Results",
+        "key": "Slice 188",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99749595",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 218,
+        "area": "ML Results",
+        "key": "Slice 188",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9988171",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 219,
+        "area": "ML Results",
+        "key": "Slice 187",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99874926",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 220,
+        "area": "ML Results",
+        "key": "Slice 187",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9986395",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 221,
+        "area": "ML Results",
+        "key": "Slice 186",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99934417",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 222,
+        "area": "ML Results",
+        "key": "Slice 186",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9992874",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 223,
+        "area": "ML Results",
+        "key": "Slice 185",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99949",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 224,
+        "area": "ML Results",
+        "key": "Slice 185",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.998779",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 225,
+        "area": "ML Results",
+        "key": "Slice 184",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99933964",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 226,
+        "area": "ML Results",
+        "key": "Slice 184",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9981108",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 227,
+        "area": "ML Results",
+        "key": "Slice 183",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9997327",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 228,
+        "area": "ML Results",
+        "key": "Slice 183",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9987675",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 229,
+        "area": "ML Results",
+        "key": "Slice 182",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9994898",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 230,
+        "area": "ML Results",
+        "key": "Slice 182",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99870384",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 231,
+        "area": "ML Results",
+        "key": "Slice 181",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99952865",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 232,
+        "area": "ML Results",
+        "key": "Slice 181",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9990796",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 233,
+        "area": "ML Results",
+        "key": "Slice 180",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99950147",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 234,
+        "area": "ML Results",
+        "key": "Slice 180",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9990402",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 235,
+        "area": "ML Results",
+        "key": "Slice 179",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9994524",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 236,
+        "area": "ML Results",
+        "key": "Slice 179",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9990907",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 237,
+        "area": "ML Results",
+        "key": "Slice 178",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9996681",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 238,
+        "area": "ML Results",
+        "key": "Slice 178",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99938273",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 239,
+        "area": "ML Results",
+        "key": "Slice 177",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9998317",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 240,
+        "area": "ML Results",
+        "key": "Slice 177",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99944395",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 241,
+        "area": "ML Results",
+        "key": "Slice 176",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9997522",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 242,
+        "area": "ML Results",
+        "key": "Slice 176",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9995566",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 243,
+        "area": "ML Results",
+        "key": "Slice 175",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99992454",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 244,
+        "area": "ML Results",
+        "key": "Slice 175",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9988306",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 245,
+        "area": "ML Results",
+        "key": "Slice 174",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9999262",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 246,
+        "area": "ML Results",
+        "key": "Slice 174",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99793553",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 247,
+        "area": "ML Results",
+        "key": "Slice 173",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99977404",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 248,
+        "area": "ML Results",
+        "key": "Slice 173",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9986223",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 249,
+        "area": "ML Results",
+        "key": "Slice 172",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99980146",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 250,
+        "area": "ML Results",
+        "key": "Slice 172",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9971614",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 251,
+        "area": "ML Results",
+        "key": "Slice 171",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9998672",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 252,
+        "area": "ML Results",
+        "key": "Slice 171",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9980433",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 253,
+        "area": "ML Results",
+        "key": "Slice 170",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9996264",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 254,
+        "area": "ML Results",
+        "key": "Slice 170",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99736494",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 255,
+        "area": "ML Results",
+        "key": "Slice 169",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99941266",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 256,
+        "area": "ML Results",
+        "key": "Slice 169",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9988918",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 257,
+        "area": "ML Results",
+        "key": "Slice 168",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9979347",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 258,
+        "area": "ML Results",
+        "key": "Slice 168",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99873453",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 259,
+        "area": "ML Results",
+        "key": "Slice 167",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9989849",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 260,
+        "area": "ML Results",
+        "key": "Slice 167",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9940691",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 261,
+        "area": "ML Results",
+        "key": "Slice 166",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99902225",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 262,
+        "area": "ML Results",
+        "key": "Slice 166",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9925944",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 263,
+        "area": "ML Results",
+        "key": "Slice 165",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9929196",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 264,
+        "area": "ML Results",
+        "key": "Slice 165",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9880995",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 265,
+        "area": "ML Results",
+        "key": "Slice 164",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9971084",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 266,
+        "area": "ML Results",
+        "key": "Slice 164",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.96690804",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 267,
+        "area": "ML Results",
+        "key": "Slice 163",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9960937",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 268,
+        "area": "ML Results",
+        "key": "Slice 163",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.96110576",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 269,
+        "area": "ML Results",
+        "key": "Slice 162",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99734455",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 270,
+        "area": "ML Results",
+        "key": "Slice 162",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9652259",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 271,
+        "area": "ML Results",
+        "key": "Slice 161",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9954152",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 272,
+        "area": "ML Results",
+        "key": "Slice 161",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9862541",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 273,
+        "area": "ML Results",
+        "key": "Slice 160",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9980586",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 274,
+        "area": "ML Results",
+        "key": "Slice 160",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99120414",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 275,
+        "area": "ML Results",
+        "key": "Slice 159",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9990816",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 276,
+        "area": "ML Results",
+        "key": "Slice 159",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.997239",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 277,
+        "area": "ML Results",
+        "key": "Slice 158",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9990687",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 278,
+        "area": "ML Results",
+        "key": "Slice 158",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99687934",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 279,
+        "area": "ML Results",
+        "key": "Slice 157",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99789196",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 280,
+        "area": "ML Results",
+        "key": "Slice 157",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9966821",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 281,
+        "area": "ML Results",
+        "key": "Slice 156",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99818295",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 282,
+        "area": "ML Results",
+        "key": "Slice 156",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99487865",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 283,
+        "area": "ML Results",
+        "key": "Slice 155",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9993629",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 284,
+        "area": "ML Results",
+        "key": "Slice 155",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99616736",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 285,
+        "area": "ML Results",
+        "key": "Slice 154",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99788564",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 286,
+        "area": "ML Results",
+        "key": "Slice 154",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9953681",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 287,
+        "area": "ML Results",
+        "key": "Slice 153",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9856747",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 288,
+        "area": "ML Results",
+        "key": "Slice 153",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99103725",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 289,
+        "area": "ML Results",
+        "key": "Slice 152",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99176615",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 290,
+        "area": "ML Results",
+        "key": "Slice 152",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9970112",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 291,
+        "area": "ML Results",
+        "key": "Slice 151",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99385405",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 292,
+        "area": "ML Results",
+        "key": "Slice 151",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.997428",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 293,
+        "area": "ML Results",
+        "key": "Slice 150",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9963709",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 294,
+        "area": "ML Results",
+        "key": "Slice 150",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99508214",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 295,
+        "area": "ML Results",
+        "key": "Slice 149",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9883366",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 296,
+        "area": "ML Results",
+        "key": "Slice 149",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.98782957",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 297,
+        "area": "ML Results",
+        "key": "Slice 148",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.97354466",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 298,
+        "area": "ML Results",
+        "key": "Slice 148",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9852093",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 299,
+        "area": "ML Results",
+        "key": "Slice 147",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.87726474",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 300,
+        "area": "ML Results",
+        "key": "Slice 147",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.97272635",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 301,
+        "area": "ML Results",
+        "key": "Slice 146",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9399474",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 302,
+        "area": "ML Results",
+        "key": "Slice 146",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9579223",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 303,
+        "area": "ML Results",
+        "key": "Slice 145",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.95279205",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 304,
+        "area": "ML Results",
+        "key": "Slice 145",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9626227",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 305,
+        "area": "ML Results",
+        "key": "Slice 144",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.964263",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 306,
+        "area": "ML Results",
+        "key": "Slice 144",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.89210635",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 307,
+        "area": "ML Results",
+        "key": "Slice 143",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.979397",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 308,
+        "area": "ML Results",
+        "key": "Slice 143",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8679003",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 309,
+        "area": "ML Results",
+        "key": "Slice 142",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9701867",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 310,
+        "area": "ML Results",
+        "key": "Slice 142",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8104413",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 311,
+        "area": "ML Results",
+        "key": "Slice 141",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.96822506",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 312,
+        "area": "ML Results",
+        "key": "Slice 141",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.56746095",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 313,
+        "area": "ML Results",
+        "key": "Slice 140",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.95784104",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 314,
+        "area": "ML Results",
+        "key": "Slice 140",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6497064",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 315,
+        "area": "ML Results",
+        "key": "Slice 139",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7093452",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 316,
+        "area": "ML Results",
+        "key": "Slice 139",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.60041153",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 317,
+        "area": "ML Results",
+        "key": "Slice 138",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7774659",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 318,
+        "area": "ML Results",
+        "key": "Slice 138",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6715854",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 319,
+        "area": "ML Results",
+        "key": "Slice 137",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.934721",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 320,
+        "area": "ML Results",
+        "key": "Slice 137",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8545239",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 321,
+        "area": "ML Results",
+        "key": "Slice 136",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.97315174",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 322,
+        "area": "ML Results",
+        "key": "Slice 136",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.70272887",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 323,
+        "area": "ML Results",
+        "key": "Slice 135",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7933503",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 324,
+        "area": "ML Results",
+        "key": "Slice 135",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6958573",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 325,
+        "area": "ML Results",
+        "key": "Slice 134",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.666127",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 326,
+        "area": "ML Results",
+        "key": "Slice 134",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.65983564",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 327,
+        "area": "ML Results",
+        "key": "Slice 133",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.81439805",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 328,
+        "area": "ML Results",
+        "key": "Slice 133",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.881782",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 329,
+        "area": "ML Results",
+        "key": "Slice 132",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.87188494",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 330,
+        "area": "ML Results",
+        "key": "Slice 132",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7740755",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 331,
+        "area": "ML Results",
+        "key": "Slice 131",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7654569",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 332,
+        "area": "ML Results",
+        "key": "Slice 131",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.61886466",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 333,
+        "area": "ML Results",
+        "key": "Slice 130",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.8151529",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 334,
+        "area": "ML Results",
+        "key": "Slice 130",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.69596004",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 335,
+        "area": "ML Results",
+        "key": "Slice 129",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9180582",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 336,
+        "area": "ML Results",
+        "key": "Slice 129",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.78751826",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 337,
+        "area": "ML Results",
+        "key": "Slice 128",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.971309",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 338,
+        "area": "ML Results",
+        "key": "Slice 128",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7223273",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 339,
+        "area": "ML Results",
+        "key": "Slice 127",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.95691514",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 340,
+        "area": "ML Results",
+        "key": "Slice 127",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7575915",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 341,
+        "area": "ML Results",
+        "key": "Slice 126",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.93335384",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 342,
+        "area": "ML Results",
+        "key": "Slice 126",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.91615856",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 343,
+        "area": "ML Results",
+        "key": "Slice 125",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.94424367",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 344,
+        "area": "ML Results",
+        "key": "Slice 125",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.90112627",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 345,
+        "area": "ML Results",
+        "key": "Slice 124",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7334733",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 346,
+        "area": "ML Results",
+        "key": "Slice 124",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.55742854",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 347,
+        "area": "ML Results",
+        "key": "Slice 123",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.69798446",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 348,
+        "area": "ML Results",
+        "key": "Slice 123",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5033917",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 349,
+        "area": "ML Results",
+        "key": "Slice 122",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.72325367",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 350,
+        "area": "ML Results",
+        "key": "Slice 122",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6405837",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 351,
+        "area": "ML Results",
+        "key": "Slice 121",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.8845876",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 352,
+        "area": "ML Results",
+        "key": "Slice 121",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.74720687",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 353,
+        "area": "ML Results",
+        "key": "Slice 120",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7118152",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 354,
+        "area": "ML Results",
+        "key": "Slice 120",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.74359065",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 355,
+        "area": "ML Results",
+        "key": "Slice 119",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.5413609",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 356,
+        "area": "ML Results",
+        "key": "Slice 119",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.72794986",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 357,
+        "area": "ML Results",
+        "key": "Slice 118",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.505448",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 358,
+        "area": "ML Results",
+        "key": "Slice 118",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8826295",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 359,
+        "area": "ML Results",
+        "key": "Slice 117",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.78000355",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 360,
+        "area": "ML Results",
+        "key": "Slice 117",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8895454",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 361,
+        "area": "ML Results",
+        "key": "Slice 116",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.73275995",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 362,
+        "area": "ML Results",
+        "key": "Slice 116",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9261211",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 363,
+        "area": "ML Results",
+        "key": "Slice 115",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.6334988",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 364,
+        "area": "ML Results",
+        "key": "Slice 115",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.913706",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 365,
+        "area": "ML Results",
+        "key": "Slice 114",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.55984896",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 366,
+        "area": "ML Results",
+        "key": "Slice 114",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.791249",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 367,
+        "area": "ML Results",
+        "key": "Slice 113",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.5260847",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 368,
+        "area": "ML Results",
+        "key": "Slice 113",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.70021206",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 369,
+        "area": "ML Results",
+        "key": "Slice 112",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.78633827",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 370,
+        "area": "ML Results",
+        "key": "Slice 112",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.82167375",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 371,
+        "area": "ML Results",
+        "key": "Slice 111",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.83798856",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 372,
+        "area": "ML Results",
+        "key": "Slice 111",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.73098624",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 373,
+        "area": "ML Results",
+        "key": "Slice 110",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.8586345",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 374,
+        "area": "ML Results",
+        "key": "Slice 110",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8353508",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 375,
+        "area": "ML Results",
+        "key": "Slice 109",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.90831965",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 376,
+        "area": "ML Results",
+        "key": "Slice 109",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.75069314",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 377,
+        "area": "ML Results",
+        "key": "Slice 108",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9427737",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 378,
+        "area": "ML Results",
+        "key": "Slice 108",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.60472864",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 379,
+        "area": "ML Results",
+        "key": "Slice 107",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9307349",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 380,
+        "area": "ML Results",
+        "key": "Slice 107",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.51536167",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 381,
+        "area": "ML Results",
+        "key": "Slice 106",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9478121",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 382,
+        "area": "ML Results",
+        "key": "Slice 106",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5818829",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 383,
+        "area": "ML Results",
+        "key": "Slice 105",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.8678993",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 384,
+        "area": "ML Results",
+        "key": "Slice 105",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6142434",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 385,
+        "area": "ML Results",
+        "key": "Slice 104",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9533382",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 386,
+        "area": "ML Results",
+        "key": "Slice 104",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7656421",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 387,
+        "area": "ML Results",
+        "key": "Slice 103",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9634681",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 388,
+        "area": "ML Results",
+        "key": "Slice 103",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7886978",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 389,
+        "area": "ML Results",
+        "key": "Slice 102",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99378574",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 390,
+        "area": "ML Results",
+        "key": "Slice 102",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7546841",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 391,
+        "area": "ML Results",
+        "key": "Slice 101",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99605584",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 392,
+        "area": "ML Results",
+        "key": "Slice 101",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.82071686",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 393,
+        "area": "ML Results",
+        "key": "Slice 100",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9796801",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 394,
+        "area": "ML Results",
+        "key": "Slice 100",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.87382007",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 395,
+        "area": "ML Results",
+        "key": "Slice 99",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9916893",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 396,
+        "area": "ML Results",
+        "key": "Slice 99",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9248673",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 397,
+        "area": "ML Results",
+        "key": "Slice 98",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.98538476",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 398,
+        "area": "ML Results",
+        "key": "Slice 98",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.90326774",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 399,
+        "area": "ML Results",
+        "key": "Slice 97",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99592626",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 400,
+        "area": "ML Results",
+        "key": "Slice 97",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.907905",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 401,
+        "area": "ML Results",
+        "key": "Slice 96",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9517698",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 402,
+        "area": "ML Results",
+        "key": "Slice 96",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.73712134",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 403,
+        "area": "ML Results",
+        "key": "Slice 95",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9263037",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 404,
+        "area": "ML Results",
+        "key": "Slice 95",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5436265",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 405,
+        "area": "ML Results",
+        "key": "Slice 94",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.93878865",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 406,
+        "area": "ML Results",
+        "key": "Slice 94",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5563595",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 407,
+        "area": "ML Results",
+        "key": "Slice 93",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.94108194",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 408,
+        "area": "ML Results",
+        "key": "Slice 93",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.788355",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 409,
+        "area": "ML Results",
+        "key": "Slice 92",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.83438754",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 410,
+        "area": "ML Results",
+        "key": "Slice 92",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.846751",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 411,
+        "area": "ML Results",
+        "key": "Slice 91",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7612437",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 412,
+        "area": "ML Results",
+        "key": "Slice 91",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6457494",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 413,
+        "area": "ML Results",
+        "key": "Slice 90",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7432357",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 414,
+        "area": "ML Results",
+        "key": "Slice 90",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7966158",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 415,
+        "area": "ML Results",
+        "key": "Slice 89",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.91765064",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 416,
+        "area": "ML Results",
+        "key": "Slice 89",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.841783",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 417,
+        "area": "ML Results",
+        "key": "Slice 88",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.87743944",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 418,
+        "area": "ML Results",
+        "key": "Slice 88",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5710283",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 419,
+        "area": "ML Results",
+        "key": "Slice 87",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.78524584",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 420,
+        "area": "ML Results",
+        "key": "Slice 87",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8089092",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 421,
+        "area": "ML Results",
+        "key": "Slice 86",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9916904",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 422,
+        "area": "ML Results",
+        "key": "Slice 86",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.57798207",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 423,
+        "area": "ML Results",
+        "key": "Slice 85",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9937372",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 424,
+        "area": "ML Results",
+        "key": "Slice 85",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7354332",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 425,
+        "area": "ML Results",
+        "key": "Slice 84",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9895812",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 426,
+        "area": "ML Results",
+        "key": "Slice 84",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8242132",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 427,
+        "area": "ML Results",
+        "key": "Slice 83",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9084413",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 428,
+        "area": "ML Results",
+        "key": "Slice 83",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5055785",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 429,
+        "area": "ML Results",
+        "key": "Slice 82",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.96891886",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 430,
+        "area": "ML Results",
+        "key": "Slice 82",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6509217",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 431,
+        "area": "ML Results",
+        "key": "Slice 81",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9861348",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 432,
+        "area": "ML Results",
+        "key": "Slice 81",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7265923",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 433,
+        "area": "ML Results",
+        "key": "Slice 80",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.97840446",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 434,
+        "area": "ML Results",
+        "key": "Slice 80",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6413761",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 435,
+        "area": "ML Results",
+        "key": "Slice 79",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.94618344",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 436,
+        "area": "ML Results",
+        "key": "Slice 79",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.80223215",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 437,
+        "area": "ML Results",
+        "key": "Slice 78",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.8120638",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 438,
+        "area": "ML Results",
+        "key": "Slice 78",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.79891944",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 439,
+        "area": "ML Results",
+        "key": "Slice 77",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.76978076",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 440,
+        "area": "ML Results",
+        "key": "Slice 77",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7714956",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 441,
+        "area": "ML Results",
+        "key": "Slice 76",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.545432",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 442,
+        "area": "ML Results",
+        "key": "Slice 76",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.921518",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 443,
+        "area": "ML Results",
+        "key": "Slice 75",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.85958195",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 444,
+        "area": "ML Results",
+        "key": "Slice 75",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8053216",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 445,
+        "area": "ML Results",
+        "key": "Slice 74",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7818092",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 446,
+        "area": "ML Results",
+        "key": "Slice 74",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6694735",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 447,
+        "area": "ML Results",
+        "key": "Slice 73",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.5377542",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 448,
+        "area": "ML Results",
+        "key": "Slice 73",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.66666526",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 449,
+        "area": "ML Results",
+        "key": "Slice 72",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.6488358",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 450,
+        "area": "ML Results",
+        "key": "Slice 72",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.50025815",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 451,
+        "area": "ML Results",
+        "key": "Slice 71",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.81493497",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 452,
+        "area": "ML Results",
+        "key": "Slice 71",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5612086",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 453,
+        "area": "ML Results",
+        "key": "Slice 70",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.93542427",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 454,
+        "area": "ML Results",
+        "key": "Slice 70",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.50314367",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 455,
+        "area": "ML Results",
+        "key": "Slice 69",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.8946069",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 456,
+        "area": "ML Results",
+        "key": "Slice 69",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5495134",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 457,
+        "area": "ML Results",
+        "key": "Slice 68",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.8525136",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 458,
+        "area": "ML Results",
+        "key": "Slice 68",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6535283",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 459,
+        "area": "ML Results",
+        "key": "Slice 67",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.90858674",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 460,
+        "area": "ML Results",
+        "key": "Slice 67",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.59644",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 461,
+        "area": "ML Results",
+        "key": "Slice 66",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.82951367",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 462,
+        "area": "ML Results",
+        "key": "Slice 66",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.61264926",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 463,
+        "area": "ML Results",
+        "key": "Slice 65",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.70430136",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 464,
+        "area": "ML Results",
+        "key": "Slice 65",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7225758",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 465,
+        "area": "ML Results",
+        "key": "Slice 64",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7430153",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 466,
+        "area": "ML Results",
+        "key": "Slice 64",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5119396",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 467,
+        "area": "ML Results",
+        "key": "Slice 63",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7560034",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 468,
+        "area": "ML Results",
+        "key": "Slice 63",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5685695",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 469,
+        "area": "ML Results",
+        "key": "Slice 62",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.6070099",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 470,
+        "area": "ML Results",
+        "key": "Slice 62",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.63347256",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 471,
+        "area": "ML Results",
+        "key": "Slice 61",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.888747",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 472,
+        "area": "ML Results",
+        "key": "Slice 61",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6297648",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 473,
+        "area": "ML Results",
+        "key": "Slice 60",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9413888",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 474,
+        "area": "ML Results",
+        "key": "Slice 60",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.50335157",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 475,
+        "area": "ML Results",
+        "key": "Slice 59",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9831517",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 476,
+        "area": "ML Results",
+        "key": "Slice 59",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.55165875",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 477,
+        "area": "ML Results",
+        "key": "Slice 58",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99167293",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 478,
+        "area": "ML Results",
+        "key": "Slice 58",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.54387957",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 479,
+        "area": "ML Results",
+        "key": "Slice 57",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9882514",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 480,
+        "area": "ML Results",
+        "key": "Slice 57",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5376385",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 481,
+        "area": "ML Results",
+        "key": "Slice 56",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99524564",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 482,
+        "area": "ML Results",
+        "key": "Slice 56",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.62273824",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 483,
+        "area": "ML Results",
+        "key": "Slice 55",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9808982",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 484,
+        "area": "ML Results",
+        "key": "Slice 55",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.58549935",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 485,
+        "area": "ML Results",
+        "key": "Slice 54",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9485326",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 486,
+        "area": "ML Results",
+        "key": "Slice 54",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5616967",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 487,
+        "area": "ML Results",
+        "key": "Slice 53",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.67722154",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 488,
+        "area": "ML Results",
+        "key": "Slice 53",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5018155",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 489,
+        "area": "ML Results",
+        "key": "Slice 52",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.97141874",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 490,
+        "area": "ML Results",
+        "key": "Slice 52",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9139475",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 491,
+        "area": "ML Results",
+        "key": "Slice 51",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99872786",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 492,
+        "area": "ML Results",
+        "key": "Slice 51",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9972228",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 493,
+        "area": "ML Results",
+        "key": "Slice 50",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99987876",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 494,
+        "area": "ML Results",
+        "key": "Slice 50",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99964416",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 495,
+        "area": "ML Results",
+        "key": "Slice 49",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9988489",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 496,
+        "area": "ML Results",
+        "key": "Slice 49",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9998307",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 497,
+        "area": "ML Results",
+        "key": "Slice 48",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9992119",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 498,
+        "area": "ML Results",
+        "key": "Slice 48",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9998559",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 499,
+        "area": "ML Results",
+        "key": "Slice 47",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99913365",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 500,
+        "area": "ML Results",
+        "key": "Slice 47",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99953496",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 501,
+        "area": "ML Results",
+        "key": "Slice 46",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99973243",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 502,
+        "area": "ML Results",
+        "key": "Slice 46",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9994647",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 503,
+        "area": "ML Results",
+        "key": "Slice 45",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9995034",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 504,
+        "area": "ML Results",
+        "key": "Slice 45",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.999683",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 505,
+        "area": "ML Results",
+        "key": "Slice 44",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9983082",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 506,
+        "area": "ML Results",
+        "key": "Slice 44",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9989618",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 507,
+        "area": "ML Results",
+        "key": "Slice 43",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99829704",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 508,
+        "area": "ML Results",
+        "key": "Slice 43",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9989999",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 509,
+        "area": "ML Results",
+        "key": "Slice 42",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9903746",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 510,
+        "area": "ML Results",
+        "key": "Slice 42",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9956201",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 511,
+        "area": "ML Results",
+        "key": "Slice 41",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.8389524",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 512,
+        "area": "ML Results",
+        "key": "Slice 41",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9277582",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 513,
+        "area": "ML Results",
+        "key": "Slice 40",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.63922983",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 514,
+        "area": "ML Results",
+        "key": "Slice 40",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.8417014",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 515,
+        "area": "ML Results",
+        "key": "Slice 39",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7427317",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 516,
+        "area": "ML Results",
+        "key": "Slice 39",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.70195484",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 517,
+        "area": "ML Results",
+        "key": "Slice 38",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.6084012",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 518,
+        "area": "ML Results",
+        "key": "Slice 38",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9272196",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 519,
+        "area": "ML Results",
+        "key": "Slice 37",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.5061341",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 520,
+        "area": "ML Results",
+        "key": "Slice 37",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9092795",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 521,
+        "area": "ML Results",
+        "key": "Slice 36",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.64636195",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 522,
+        "area": "ML Results",
+        "key": "Slice 36",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9180157",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 523,
+        "area": "ML Results",
+        "key": "Slice 35",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.6674868",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 524,
+        "area": "ML Results",
+        "key": "Slice 35",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.90620077",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 525,
+        "area": "ML Results",
+        "key": "Slice 34",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.61712366",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 526,
+        "area": "ML Results",
+        "key": "Slice 34",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.82885873",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 527,
+        "area": "ML Results",
+        "key": "Slice 33",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.78906214",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 528,
+        "area": "ML Results",
+        "key": "Slice 33",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.89108306",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 529,
+        "area": "ML Results",
+        "key": "Slice 32",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.71878576",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 530,
+        "area": "ML Results",
+        "key": "Slice 32",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9561663",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 531,
+        "area": "ML Results",
+        "key": "Slice 31",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.5052191",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 532,
+        "area": "ML Results",
+        "key": "Slice 31",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.97524124",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 533,
+        "area": "ML Results",
+        "key": "Slice 30",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.711734",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 534,
+        "area": "ML Results",
+        "key": "Slice 30",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9613832",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 535,
+        "area": "ML Results",
+        "key": "Slice 29",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7461366",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 536,
+        "area": "ML Results",
+        "key": "Slice 29",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9791656",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 537,
+        "area": "ML Results",
+        "key": "Slice 28",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.57681096",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 538,
+        "area": "ML Results",
+        "key": "Slice 28",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.94727266",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 539,
+        "area": "ML Results",
+        "key": "Slice 27",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.74188185",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 540,
+        "area": "ML Results",
+        "key": "Slice 27",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9473334",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 541,
+        "area": "ML Results",
+        "key": "Slice 26",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.78404415",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 542,
+        "area": "ML Results",
+        "key": "Slice 26",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.92071563",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 543,
+        "area": "ML Results",
+        "key": "Slice 25",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.98485655",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 544,
+        "area": "ML Results",
+        "key": "Slice 25",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9616911",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 545,
+        "area": "ML Results",
+        "key": "Slice 24",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.97242874",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 546,
+        "area": "ML Results",
+        "key": "Slice 24",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.98546207",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 547,
+        "area": "ML Results",
+        "key": "Slice 23",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9764739",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 548,
+        "area": "ML Results",
+        "key": "Slice 23",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9948232",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 549,
+        "area": "ML Results",
+        "key": "Slice 22",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9973621",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 550,
+        "area": "ML Results",
+        "key": "Slice 22",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99687165",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 551,
+        "area": "ML Results",
+        "key": "Slice 21",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99597186",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 552,
+        "area": "ML Results",
+        "key": "Slice 21",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9968213",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 553,
+        "area": "ML Results",
+        "key": "Slice 20",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9918902",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 554,
+        "area": "ML Results",
+        "key": "Slice 20",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9821906",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 555,
+        "area": "ML Results",
+        "key": "Slice 19",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99826044",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 556,
+        "area": "ML Results",
+        "key": "Slice 19",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9827151",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 557,
+        "area": "ML Results",
+        "key": "Slice 18",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.99880016",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 558,
+        "area": "ML Results",
+        "key": "Slice 18",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9907617",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 559,
+        "area": "ML Results",
+        "key": "Slice 17",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9940637",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 560,
+        "area": "ML Results",
+        "key": "Slice 17",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9880426",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 561,
+        "area": "ML Results",
+        "key": "Slice 16",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.97823745",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 562,
+        "area": "ML Results",
+        "key": "Slice 16",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9853566",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 563,
+        "area": "ML Results",
+        "key": "Slice 15",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9945787",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 564,
+        "area": "ML Results",
+        "key": "Slice 15",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9961279",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 565,
+        "area": "ML Results",
+        "key": "Slice 14",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9907101",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 566,
+        "area": "ML Results",
+        "key": "Slice 14",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.99590224",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 567,
+        "area": "ML Results",
+        "key": "Slice 13",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.98303074",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 568,
+        "area": "ML Results",
+        "key": "Slice 13",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.994038",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 569,
+        "area": "ML Results",
+        "key": "Slice 12",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.89345825",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 570,
+        "area": "ML Results",
+        "key": "Slice 12",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9704039",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 571,
+        "area": "ML Results",
+        "key": "Slice 11",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.96103406",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 572,
+        "area": "ML Results",
+        "key": "Slice 11",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9460539",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 573,
+        "area": "ML Results",
+        "key": "Slice 10",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.97531784",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 574,
+        "area": "ML Results",
+        "key": "Slice 10",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9218372",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 575,
+        "area": "ML Results",
+        "key": "Slice 9",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9689304",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 576,
+        "area": "ML Results",
+        "key": "Slice 9",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9220213",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 577,
+        "area": "ML Results",
+        "key": "Slice 8",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.9198057",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 578,
+        "area": "ML Results",
+        "key": "Slice 8",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.928473",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 579,
+        "area": "ML Results",
+        "key": "Slice 7",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.68418837",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 580,
+        "area": "ML Results",
+        "key": "Slice 7",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.9205761",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 581,
+        "area": "ML Results",
+        "key": "Slice 6",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.5087033",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 582,
+        "area": "ML Results",
+        "key": "Slice 6",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.6209872",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 583,
+        "area": "ML Results",
+        "key": "Slice 5",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.5467443",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 584,
+        "area": "ML Results",
+        "key": "Slice 5",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5781879",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 585,
+        "area": "ML Results",
+        "key": "Slice 4",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.77578574",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 586,
+        "area": "ML Results",
+        "key": "Slice 4",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.65613985",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 587,
+        "area": "ML Results",
+        "key": "Slice 3",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.84047323",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 588,
+        "area": "ML Results",
+        "key": "Slice 3",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.52983665",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 589,
+        "area": "ML Results",
+        "key": "Slice 2",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.79495287",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 590,
+        "area": "ML Results",
+        "key": "Slice 2",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.75031567",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 591,
+        "area": "ML Results",
+        "key": "Slice 1",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.7285007",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 592,
+        "area": "ML Results",
+        "key": "Slice 1",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.7552569",
+        "value3": "cancer"
+    },
+    {
+        "primaryKey": 593,
+        "area": "ML Results",
+        "key": "Slice 0",
+        "value1": "COVID-19-Model-v1.14",
+        "value2": "0.55580056",
+        "value3": "normal"
+    },
+    {
+        "primaryKey": 594,
+        "area": "ML Results",
+        "key": "Slice 0",
+        "value1": "COVID-19-Model-v1.13",
+        "value2": "0.5603113",
+        "value3": "cancer"
+    }
+]
